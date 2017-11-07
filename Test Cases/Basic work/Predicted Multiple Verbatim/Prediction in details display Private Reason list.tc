@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prediction in details display Private Reason list</name>
+   <tag>WEB UI</tag>
+   <comment></comment>
+   <testCaseGuid>0c07a379-f431-46f2-8da6-0dfccdaa57ce</testCaseGuid>
+</TestCaseEntity>

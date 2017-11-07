@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prediction in details display Acccessibility list</name>
+   <tag>WEB UI</tag>
+   <comment></comment>
+   <testCaseGuid>dc20ee3e-5e14-4a26-a276-709a09aef359</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search user list</name>
+   <tag>WEB UI</tag>
+   <comment></comment>
+   <testCaseGuid>aa18d143-bd17-40a1-9d60-e8da77297b76</testCaseGuid>
+</TestCaseEntity>

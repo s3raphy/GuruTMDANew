@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Export History Log</name>
+   <tag>WEB UI</tag>
+   <comment></comment>
+   <testCaseGuid>dbdb02b5-342c-409f-8d1d-a5f723ed8598</testCaseGuid>
+</TestCaseEntity>

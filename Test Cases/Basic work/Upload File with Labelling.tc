@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload File with Labelling</name>
+   <tag>WEB UI</tag>
+   <comment></comment>
+   <testCaseGuid>fd446afc-ef6a-492c-a99e-dd7f7410c5d8</testCaseGuid>
+</TestCaseEntity>

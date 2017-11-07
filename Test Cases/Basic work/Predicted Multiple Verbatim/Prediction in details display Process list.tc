@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prediction in details display Process list</name>
+   <tag>WEB UI</tag>
+   <comment></comment>
+   <testCaseGuid>45f32e0f-08e5-4c7e-bb49-d906122e0496</testCaseGuid>
+</TestCaseEntity>
